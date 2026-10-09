@@ -154,6 +154,18 @@ The script automatically creates the "UniversityDB" database and required tables
 
 ---
 
+📋 Assumptions
+
+1. The Instructors table in the assignment has no Salary field, but Query 8 needs it. A "Salary" column was added to the Instructors table.
+2. Only the sample data from the assignment is used. Because of this, Queries 2, 4, 5 and 12 return an empty result.
+3. In Query 1, extra rows are inserted for the CRUD demo and deleted at the end, so the sample data stays the same.
+4. "After 2022" in Query 2 means the enrollment year is greater than 2022.
+5. In Query 16, a student is 'Senior' if the enrollment date is more than 4 years before the current date. Otherwise the student is 'Junior'.
+6. Query 15 shows the number of students per course and the running total.
+7. MySQL 8.0 or higher is needed for window functions.
+
+---
+
 📁 Project Structure
 
 University-Course-Management-System/
