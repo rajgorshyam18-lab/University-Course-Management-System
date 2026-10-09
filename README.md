@@ -146,7 +146,7 @@ Technology| Purpose
 
 1. Clone or download this repository.
 2. Open MySQL Workbench.
-3. Open "university_course_management.sql".
+3. Open "Final_Project.sql".
 4. Execute the complete script.
 5. Review the output of each query.
 
