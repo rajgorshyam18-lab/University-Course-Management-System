@@ -158,7 +158,7 @@ The script automatically creates the "UniversityDB" database and required tables
 
 University-Course-Management-System/
 │
-├── 📄 university_course_management.sql
+├── 📄 Final_Project.sql
 │   └── Database, tables, sample data & 16 queries
 │
 └── 📄 README.md
